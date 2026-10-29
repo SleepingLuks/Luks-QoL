@@ -1,0 +1,141 @@
+{
+  "block.ice_bed.break": {
+    "sounds": [
+      {
+        "name": "minecraft:block.snow.break",
+        "type": "event",
+        "weight": 4,
+        "volume": 0.9,
+        "pitch": 0.92
+      },
+      {
+        "name": "minecraft:block.powder_snow.break",
+        "type": "event",
+        "weight": 2,
+        "volume": 0.8,
+        "pitch": 1.0
+      },
+      {
+        "name": "minecraft:block.rooted_dirt.break",
+        "type": "event",
+        "weight": 2,
+        "volume": 0.65,
+        "pitch": 0.95
+      },
+      {
+        "name": "minecraft:block.glass.hit",
+        "type": "event",
+        "weight": 1,
+        "volume": 0.22,
+        "pitch": 1.45
+      }
+    ]
+  },
+  "block.ice_bed.step": {
+    "sounds": [
+      {
+        "name": "minecraft:block.snow.step",
+        "type": "event",
+        "weight": 4,
+        "volume": 0.8,
+        "pitch": 1.0
+      },
+      {
+        "name": "minecraft:block.powder_snow.step",
+        "type": "event",
+        "weight": 2,
+        "volume": 0.7,
+        "pitch": 1.05
+      },
+      {
+        "name": "minecraft:block.rooted_dirt.step",
+        "type": "event",
+        "weight": 2,
+        "volume": 0.5,
+        "pitch": 1.0
+      },
+      {
+        "name": "minecraft:block.glass.step",
+        "type": "event",
+        "weight": 1,
+        "volume": 0.18,
+        "pitch": 1.5
+      }
+    ]
+  },
+  "block.ice_bed.place": {
+    "sounds": [
+      {
+        "name": "minecraft:block.snow.place",
+        "type": "event",
+        "weight": 4,
+        "volume": 0.9,
+        "pitch": 0.95
+      },
+      {
+        "name": "minecraft:block.rooted_dirt.place",
+        "type": "event",
+        "weight": 2,
+        "volume": 0.75,
+        "pitch": 0.95
+      },
+      {
+        "name": "minecraft:block.powder_snow.place",
+        "type": "event",
+        "weight": 1,
+        "volume": 0.7,
+        "pitch": 1.0
+      },
+      {
+        "name": "minecraft:block.glass.place",
+        "type": "event",
+        "weight": 1,
+        "volume": 0.2,
+        "pitch": 1.4
+      }
+    ]
+  },
+  "block.ice_bed.hit": {
+    "sounds": [
+      {
+        "name": "minecraft:block.snow.hit",
+        "type": "event",
+        "weight": 4,
+        "volume": 0.7,
+        "pitch": 1.0
+      },
+      {
+        "name": "minecraft:block.rooted_dirt.hit",
+        "type": "event",
+        "weight": 2,
+        "volume": 0.5,
+        "pitch": 1.0
+      },
+      {
+        "name": "minecraft:block.glass.hit",
+        "type": "event",
+        "weight": 1,
+        "volume": 0.15,
+        "pitch": 1.55
+      }
+    ]
+  },
+  "block.ice_bed.fall": {
+    "sounds": [
+      {
+        "name": "minecraft:block.snow.fall",
+        "type": "event",
+        "weight": 4,
+        "volume": 0.8,
+        "pitch": 1.0
+      },
+      {
+        "name": "minecraft:block.rooted_dirt.fall",
+        "type": "event",
+        "weight": 2,
+        "volume": 0.6,
+        "pitch": 0.95
+      }
+    ]
+  }
+}

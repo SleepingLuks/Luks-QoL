@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "OCO",
+    "CPC",
+    "ODO"
+  ],
+  "key": {
+    "O": "minecraft:obsidian",
+    "C": "minecraft:chorus_fruit",
+    "P": "minecraft:ender_pearl",
+    "D": "minecraft:dragon_breath"
+  },
+  "result": {
+    "id": "luks_qol:void_eye",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "luks_qol:block/ice_sprout_0"
+  }
+}
