@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "luks_qol:block/glowing_blackstone"
-  }
-}
