@@ -8,5 +8,3 @@ Luks QoL — сборка
 2) Сборка:
    Windows:    gradlew.bat build
    Mac/Linux:  ./gradlew build
-3) Готовый мод: build/libs/luks-qol-0.1.0.jar (без -sources)
-Запуск для теста: gradlew.bat runClient
