@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "OCO",
+    "CEC",
+    "OSO"
+  ],
+  "key": {
+    "O": "minecraft:obsidian",
+    "C": "minecraft:popped_chorus_fruit",
+    "E": "minecraft:ender_eye",
+    "S": "minecraft:end_crystal"
+  },
+  "result": {
+    "id": "luks_qol:return_shard",
+    "count": 1
+  }
+}

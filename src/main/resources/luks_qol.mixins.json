@@ -1,0 +1,26 @@
+{
+  "required": true,
+  "package": "luks.qol.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "MobLeashMixin",
+    "BlockEntityTypeMixin",
+    "FurnaceSeedChanceMixin",
+    "HappyGhastMixin",
+    "AbstractContainerMenuAccessor",
+    "InventoryMenuMixin",
+    "SlotAccessor",
+    "VillagerMixin",
+    "MerchantMenuMixin",
+    "AbstractContainerMenuMixin",
+    "ThrownEnderpearlMixin",
+    "EyeOfEnderMixin",
+    "SpawnerBlockMixin",
+    "ProjectileMixin",
+    "ServerPlayerMixin",
+    "ServerGamePacketListenerImplMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

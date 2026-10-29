@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": "minecraft:snow_block",
+  "result": {
+    "id": "luks_qol:ice_seeds"
+  },
+  "experience": 0.0,
+  "cookingtime": 200
+}

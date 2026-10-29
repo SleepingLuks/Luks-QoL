@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "LLL",
+    "LCL",
+    "LLL"
+  ],
+  "key": {
+    "L": "minecraft:glowstone",
+    "C": "minecraft:magma_cream"
+  },
+  "result": {
+    "id": "luks_qol:glowing_magma_cream",
+    "count": 1
+  }
+}

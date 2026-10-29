@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "luks_qol:block/sturdy_bone_block_top",
+    "side": "luks_qol:block/sturdy_bone_block_side"
+  }
+}

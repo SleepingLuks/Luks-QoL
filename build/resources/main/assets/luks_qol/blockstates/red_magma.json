@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "luks_qol:block/red_magma"
+    }
+  }
+}

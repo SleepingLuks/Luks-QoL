@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "ingredient": "luks_qol:sturdy_bone_block",
+  "result": {
+    "id": "luks_qol:fused_bone_block"
+  },
+  "experience": 0.5,
+  "cookingtime": 200
+}

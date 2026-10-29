@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "MMM",
+    "MBM",
+    "MMM"
+  ],
+  "key": {
+    "M": "minecraft:magma_block",
+    "B": "minecraft:blackstone"
+  },
+  "result": {
+    "id": "luks_qol:glowing_blackstone",
+    "count": 1
+  }
+}

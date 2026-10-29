@@ -1,0 +1,55 @@
+{
+  "variants": {
+    "lean=0": {
+      "model": "luks_qol:block/teal_marker_bush_lean_0"
+    },
+    "lean=1": {
+      "model": "luks_qol:block/teal_marker_bush_lean_1"
+    },
+    "lean=2": {
+      "model": "luks_qol:block/teal_marker_bush_lean_2"
+    },
+    "lean=3": {
+      "model": "luks_qol:block/teal_marker_bush_lean_3"
+    },
+    "lean=4": {
+      "model": "luks_qol:block/teal_marker_bush_lean_4"
+    },
+    "lean=5": {
+      "model": "luks_qol:block/teal_marker_bush_lean_5"
+    },
+    "lean=6": {
+      "model": "luks_qol:block/teal_marker_bush_lean_6"
+    },
+    "lean=7": {
+      "model": "luks_qol:block/teal_marker_bush_lean_7"
+    },
+    "lean=8": {
+      "model": "luks_qol:block/teal_marker_bush_lean_8"
+    },
+    "lean=9": {
+      "model": "luks_qol:block/teal_marker_bush_lean_9"
+    },
+    "lean=10": {
+      "model": "luks_qol:block/teal_marker_bush_lean_10"
+    },
+    "lean=11": {
+      "model": "luks_qol:block/teal_marker_bush_lean_11"
+    },
+    "lean=12": {
+      "model": "luks_qol:block/teal_marker_bush_lean_12"
+    },
+    "lean=13": {
+      "model": "luks_qol:block/teal_marker_bush_lean_13"
+    },
+    "lean=14": {
+      "model": "luks_qol:block/teal_marker_bush_lean_14"
+    },
+    "lean=15": {
+      "model": "luks_qol:block/teal_marker_bush_lean_15"
+    },
+    "lean=16": {
+      "model": "luks_qol:block/teal_marker_bush_lean_16"
+    }
+  }
+}

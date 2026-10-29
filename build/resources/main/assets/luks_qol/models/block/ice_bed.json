@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "luks_qol:block/ice_bed_top",
+    "side": "luks_qol:block/ice_bed_side",
+    "bottom": "luks_qol:block/ice_bed_bottom"
+  }
+}
