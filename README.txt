@@ -6,5 +6,5 @@ Luks QoL — сборка
    - скопируйте их из шаблона с fabricmc.net/develop (Minecraft 26.3),
    - либо, если установлен Gradle 9.4+, выполните:  gradle wrapper
 2) Сборка:
-   Windows:    gradlew.bat build
+   Windows:    .\gradlew.bat build
    Mac/Linux:  ./gradlew build
